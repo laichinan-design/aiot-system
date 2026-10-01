@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="760" viewBox="0 0 1600 760" font-family="WenQuanYi Zen Hei">
+<rect width="1600" height="760" fill="#ffffff"/>
+<text x="800" y="55" font-size="38" text-anchor="middle" fill="#1F3864" font-weight="bold">AIoT 產業鏈結構圖（上游 → 中游 → 下游）</text>
+<g font-size="24">
+<rect x="40" y="100" width="470" height="600" rx="16" fill="#DEEAF6" stroke="#1F3864" stroke-width="3"/>
+<text x="275" y="145" font-size="30" text-anchor="middle" font-weight="bold" fill="#1F3864">上游｜晶片與元件</text>
+<text x="70" y="200">● 運算：AIoT SoC / MCU+NPU / MPU</text>
+<text x="70" y="240">● 連網：Wi-Fi 6/7、BLE、Thread、</text>
+<text x="100" y="275">Cellular (NB-IoT/RedCap)、UWB</text>
+<text x="70" y="315">● 感測：CMOS、MEMS、ToF、雷達</text>
+<text x="70" y="355">● 記憶體：NOR、SLC NAND、LPDDR</text>
+<text x="70" y="395">● 類比/電源：PMIC、BMS、能源採集</text>
+<text x="70" y="435">● 矽智財：RISC-V、NPU IP、安全 IP</text>
+<text x="70" y="475">● 晶圓代工：22/28/40nm 特殊製程</text>
+<text x="70" y="530" font-weight="bold" fill="#C00000">利潤池最高（GM 45–65%）</text>
+<text x="70" y="580" fill="#444">台廠：聯發科、瑞昱、新唐、</text>
+<text x="70" y="615" fill="#444">盛群、原相、晶心科、力旺、</text>
+<text x="70" y="650" fill="#444">華邦電、旺宏、聯電、世界</text>
+<rect x="565" y="100" width="470" height="600" rx="16" fill="#E2EFDA" stroke="#375623" stroke-width="3"/>
+<text x="800" y="145" font-size="30" text-anchor="middle" font-weight="bold" fill="#375623">中游｜模組・設備・平台</text>
+<text x="595" y="200">● 連網模組 / AI 模組 / SoM</text>
+<text x="595" y="240">● 閘道器、網通 CPE、路由器</text>
+<text x="595" y="280">● 邊緣運算 / 工業電腦 (IPC)</text>
+<text x="595" y="320">● 網路攝影機 / NVR / VMS</text>
+<text x="595" y="360">● ODM / EMS 系統組裝</text>
+<text x="595" y="400">● OS / 中介軟體 / AI 推論框架</text>
+<text x="595" y="440">● IoT 雲平台 / 裝置管理 / 資安</text>
+<text x="595" y="530" font-weight="bold" fill="#C00000">硬體 GM 10–35%；平台軟體 60%+</text>
+<text x="595" y="580" fill="#444">台廠：研華、凌華、樺漢、</text>
+<text x="595" y="615" fill="#444">振樺電、宜鼎、啟碁、中磊、</text>
+<text x="595" y="650" fill="#444">智易、晶睿、環旭、鴻海</text>
+<rect x="1090" y="100" width="470" height="600" rx="16" fill="#FFF2CC" stroke="#7F6000" stroke-width="3"/>
+<text x="1325" y="145" font-size="30" text-anchor="middle" font-weight="bold" fill="#7F6000">下游｜應用場景</text>
+<text x="1120" y="200">● 工業 4.0：預測維護、AOI、AMR</text>
+<text x="1120" y="240">● 智慧家庭：Matter、家電、門鎖</text>
+<text x="1120" y="280">● 智慧安防 / 智慧城市</text>
+<text x="1120" y="320">● 智慧零售 / 物流 / 醫療</text>
+<text x="1120" y="360">● 車聯網 / 智慧座艙</text>
+<text x="1120" y="400">● 穿戴：AI 眼鏡、耳機、手錶</text>
+<text x="1120" y="440">● Physical AI：人形 / 服務機器人</text>
+<text x="1120" y="480">● 能源：智慧電網、BESS、EV 充電</text>
+<text x="1120" y="530" font-weight="bold" fill="#C00000">價值在數據與服務（訂閱制）</text>
+<text x="1120" y="580" fill="#444">品牌 / SI：Apple、Google、</text>
+<text x="1120" y="615" fill="#444">Amazon、Meta、Siemens、</text>
+<text x="1120" y="650" fill="#444">小米、海爾、研華 WISE-IoT</text>
+</g>
+<polygon points="515,450 560,470 515,490" fill="#1F3864"/>
+<polygon points="1040,450 1085,470 1040,490" fill="#375623"/>
+<text x="800" y="740" font-size="22" text-anchor="middle" fill="#666">資料來源：作者整理；毛利率區間為產業典型值，非特定公司數據</text>
+</svg>
