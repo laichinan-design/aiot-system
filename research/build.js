@@ -78,7 +78,7 @@ C.push(p([b('解讀：'), r('同年度規模差距達 5 倍，代表研調數字
 
 // ---------- 3. Chain ----------
 C.push(h1('三、產業鏈上下游拆解'));
-C.push(new Paragraph({ alignment: AlignmentType.CENTER, children: [new ImageRun({ type: 'png', data: fs.readFileSync('chain.png'),
+C.push(new Paragraph({ alignment: AlignmentType.CENTER, children: [new ImageRun({ type: 'jpg', data: fs.readFileSync('chain.jpg'),
   transformation: { width: 640, height: 304 } })] }));
 C.push(h2('3.1 上游：晶片、元件與矽智財'));
 C.push(table(['次領域', '技術關鍵', '國際龍頭', '台廠代表（代號）', '典型 GM'], [
